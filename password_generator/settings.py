@@ -25,7 +25,7 @@ SECRET_KEY = '(qu1jfn)3773l@r5=@hgvj1ykpt17zz=07vjea!te-a^6glth4@9l%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://lucidethinker.github.io/password_generator_project']
 
 
 # Application definition
